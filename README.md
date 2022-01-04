@@ -1,0 +1,2 @@
+# 42LicenseManager_Instructions
+Contains instructions for 42LicenseManager
