@@ -1,4 +1,4 @@
-The Avast Template.zip contains the Avast import notes .jpg as well as the import template for Avast Business Cloud Care.
+The Avast Template.zip contains the Avast import notes as well as the import template for Avast Business Cloud Care.
 
 To get your Avast data for import:
 1. Sign into your Avast Business Cloud Care account.
